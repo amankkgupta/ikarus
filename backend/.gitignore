@@ -52,4 +52,4 @@ Thumbs.db
 
 # TypeScript cache (if using TypeScript)
 *.tsbuildinfo
-backend/src/config/firestoreKey.json
+./backend/src/config/firestoreKey.json
