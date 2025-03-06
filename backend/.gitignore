@@ -52,3 +52,5 @@ Thumbs.db
 
 # TypeScript cache (if using TypeScript)
 *.tsbuildinfo
+
+src/config/firestoreKey.json
